@@ -10,15 +10,22 @@ namespace ECommerce
 {
     public partial class App : Application
     {
+        #region Properties
         public static NavigationPage Navigator { get; internal set; }
+        public static MainPage Master { get; internal set; }
 
+        #endregion
+
+        #region Constructors
         public App()
         {
             InitializeComponent();
 
             MainPage = new ECommerce.MainPage();
         }
+        #endregion
 
+        #region Methods
         protected override void OnStart()
         {
             // Handle when your app starts
@@ -32,6 +39,7 @@ namespace ECommerce
         protected override void OnResume()
         {
             // Handle when your app resumes
-        }
+        } 
+        #endregion
     }
 }
