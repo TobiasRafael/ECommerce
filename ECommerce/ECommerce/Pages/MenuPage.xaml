@@ -43,7 +43,6 @@
         <BoxView 
             HeightRequest="3"
             Color="{StaticResource AccentColor}">
-
         </BoxView>
         <ListView 
             ItemsSource="{Binding Menu}"
