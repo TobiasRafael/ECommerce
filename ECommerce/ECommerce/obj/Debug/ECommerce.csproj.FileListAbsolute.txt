@@ -3,6 +3,7 @@ C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ECommerce.dl
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ECommerce.pdb
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.MvvmLight.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Microsoft.Practices.ServiceLocation.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Newtonsoft.Json.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\SQLite.Net.dll
@@ -17,6 +18,8 @@ C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.Mvv
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.MvvmLight.xml
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
+C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Newtonsoft.Json.xml
@@ -29,6 +32,7 @@ C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Xamarin.Form
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Xamarin.Forms.Xaml.pdb
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.App.config
+C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.Pages.MainPage.xaml.g.cs
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.App.xaml.g.cs
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.Pages.MenuPage.xaml.g.cs
@@ -42,7 +46,3 @@ C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.Pa
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.Pages.LoginPage.xaml.g.cs
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.pdb
-C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
-C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.dll
-C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.pdb
-C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce\bin\Debug\ImageCircle.Forms.Plugin.Abstractions.xml

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Services
 {
-   public class ApiService
+    public class ApiService
     {
         public async Task<Response> Login(string email, string password)
         {
@@ -35,7 +35,7 @@ namespace ECommerce.Services
                         IsSuccess = false,
                         Message = "User or Password Incorrect",
                     };
-                   
+
                 }
 
                 var result = await response.Content.ReadAsStringAsync();
@@ -58,6 +58,36 @@ namespace ECommerce.Services
                     IsSuccess = false,
                     Message = ex.Message,
                 };
+            }
+        }
+
+      
+        public async Task<List<T>> Get<T>(string controller)
+        {
+            try
+            {
+
+                var client = new HttpClient();
+                client.BaseAddress = new Uri("http://zulu-software.com");
+                var url = string.Format("/ECommerce/api/{0}",controller);
+                var response = await client.GetAsync(url);
+
+                if (!response.IsSuccessStatusCode)
+                {
+                    return null;
+
+                }
+
+                var result = await response.Content.ReadAsStringAsync();
+                var list = JsonConvert.DeserializeObject<List<T>>(result);
+                return list;
+
+            }
+
+            catch (Exception ex)
+            {
+
+                return null;
             }
         }
     }

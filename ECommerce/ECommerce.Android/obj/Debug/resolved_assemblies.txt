@@ -50,9 +50,9 @@ C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\andr
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Threading.Tasks.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Collections.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Threading.dll
+C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Runtime.Extensions.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Linq.Expressions.dll
-C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Linq.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Text.Encoding.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.ComponentModel.dll
 C:\Users\tobia\Source\Repos\ECommerce\ECommerce\ECommerce.Android\obj\Debug\android\assets\System.Xml.ReaderWriter.dll

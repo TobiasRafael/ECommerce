@@ -22,6 +22,8 @@ namespace ECommerce.ViewModels
 
         private DataService _dataService;
 
+        private NetService _netService;
+
         
 
         #endregion
@@ -49,6 +51,7 @@ namespace ECommerce.ViewModels
             _dialogService = new DialogService();
             _apiService = new ApiService();
             _dataService = new DataService();
+            _netService = new NetService();
             IsRemembered = true;
             IsCmdVisible = true;
         } 
@@ -72,8 +75,15 @@ namespace ECommerce.ViewModels
             
             IsRunning = true;
             IsCmdVisible = false;
-
-            var response = await _apiService.Login(User, Password);
+            var response = new Response();
+            if (_netService.IsConnected())
+            {
+                response = await _apiService.Login(User, Password);
+            }
+          else
+            {
+                response = _dataService.Login(User, Password);
+            }
             IsRunning = false;
             IsCmdVisible = true;
 
