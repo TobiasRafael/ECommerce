@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+# Exclude build output and dependencies from GitHub language statistics
+**/bin/** linguist-generated
+**/obj/** linguist-generated
+packages/** linguist-vendored
